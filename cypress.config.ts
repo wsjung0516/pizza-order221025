@@ -11,7 +11,7 @@ export default defineConfig({
     supportFile: false,
     env: {
       // https://github.com/bahmutov/cypress-slow-down
-      commandDelay: 2000,
+      commandDelay: 500,
     },
   },
 
